@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CartunesTester</string>
+
+    <string name="pause_text">Pause</string>
+    <string name="veto_text">Veto!!!</string>
+    <string name="action_settings">Settings</string>
+</resources>
